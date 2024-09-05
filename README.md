@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 주로 Java, Spring을 이용하여 개발을 하고, 클라우드 환경에서의 프로젝트 경험이있습니다. 
+- 주로 Java, Spring을 이용하여 개발을 하고, 클라우드 환경에서의 프로젝트 경험이 있습니다. 
 - 현재는 성능 최적화를 위한 기술들에 관심을 가지고 공부하고 있습니다.
 - 백엔드 분야에서 깊이있는 지식을 가진 개발자가 되고 싶습니다.
 - 관심이 있으시다면 <a href="mailto:jydev763@gmail.com"><img width="60px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 로 연락주세요.
