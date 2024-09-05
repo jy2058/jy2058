@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align="center" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"/>
+  <img align="center" src="https://github.com/user-attachments/assets/6ad77595-ae93-4ccb-99a7-33dc761624b0" width="20%"/>
 
   ## 백엔드 개발자 김지연입니다 👋
   
